@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_persona: MyString
+  documento: MyString
+  fecha_emision_del_documento: 2022-06-21
+  fecha_vencimiento_del_documento: 2022-06-21
+  nombre: MyString
+  correo: MyString
+  tel1: MyString
+  tel2: MyString
+
+two:
+  tipo_persona: MyString
+  documento: MyString
+  fecha_emision_del_documento: 2022-06-21
+  fecha_vencimiento_del_documento: 2022-06-21
+  nombre: MyString
+  correo: MyString
+  tel1: MyString
+  tel2: MyString
